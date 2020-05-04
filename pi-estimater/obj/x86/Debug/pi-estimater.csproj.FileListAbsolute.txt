@@ -1,0 +1,5 @@
+/Users/svantegeisshirt/Projects/pi-estimater/pi-estimater/bin/Debug/pi-estimater.exe
+/Users/svantegeisshirt/Projects/pi-estimater/pi-estimater/bin/Debug/pi-estimater.pdb
+/Users/svantegeisshirt/Projects/pi-estimater/pi-estimater/obj/x86/Debug/pi-estimater.csprojAssemblyReference.cache
+/Users/svantegeisshirt/Projects/pi-estimater/pi-estimater/obj/x86/Debug/pi-estimater.exe
+/Users/svantegeisshirt/Projects/pi-estimater/pi-estimater/obj/x86/Debug/pi-estimater.pdb
